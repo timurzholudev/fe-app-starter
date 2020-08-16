@@ -7,3 +7,9 @@ This a simple setup, for frontend application which do not requier any framework
 - After cloning project, in terminal write `cd fe-app-starter`
 - Then install all node modules, using `npm i'
 - Run application in watch by typing `npm start`
+
+## Stack
+- Webpack
+- TypeScript
+- SCSS
+- LitElement
